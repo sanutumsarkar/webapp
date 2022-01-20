@@ -1,3 +1,3 @@
 FROM scratch
 COPY hello /
-CMD ["/hello-WORLD"]
+CMD ["/hello-WORLD WEB-App"]
